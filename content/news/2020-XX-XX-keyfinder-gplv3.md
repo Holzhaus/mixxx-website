@@ -11,7 +11,7 @@ It's been in the top 3 of the [2020 key detection comparison on Reddit](https://
 
 Unfortunately, it's also a lot slower than the QM-DSP algorithm (because the latter divides the sample rate by 8 and only analyzes every 8th window, resulting in a speedup factor of 64).
 We hope to improve performance in the future.
-Until then, the Queen Mary key Analyzer will be selected by default and you'll have to enable KeyFinder in the settings.
+Until then, the Queen Mary key Analyzer will be selected by default and you'll have to enable KeyFinder in the Key Detection settings.
 
 KeyFinder is licensed under the terms of the GPL v3 (or later), which means that any code using it also needs to be GPL v3.
 Therefore, Mixxx is switching from GPL v2 (or later) to GPL v3 (or later).
