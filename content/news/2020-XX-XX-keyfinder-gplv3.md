@@ -28,5 +28,3 @@ The most notable change with GPLv3 is that it prevents [tivoization](http://gplv
 In other words: If you're a hardware manufacturer and want to embed Mixxx or parts of Mixxx into your product (e.g. a standalone controller running Mixxx), you still can, but you mustn't implement measures designed to prevent users from flashing a custom, modified version of Mixxx on that device.
 
 Check the [quick guide on the GNU website](https://www.gnu.org/licenses/quick-guide-gplv3) and the [FAQ](https://www.gnu.org/licenses/gpl-faq) for more details.
-
-Note that the GPL is irrevokable, which means you may still use the Mixxx code before the KeyFinder integration under the terms of the GPL v2 at your discretion.
