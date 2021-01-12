@@ -158,6 +158,17 @@ versions:
 
       **Development snapshots are not intended for live use!** Expect crashes and make sure to back up your Mixxx settings and library before upgrading as explained in the Testing wiki page.
     downloads:
+      - slug: ubuntu
+        os: Ubuntu 18.04 "Bionic Beaver" or later
+        text: |
+          We provide a [PPA on Launchpad](https://launchpad.net/~mixxx/+archive/nightlies) to make installing install the latest development version of Mixxx as easy as possible.
+          Open a terminal, and enter:
+
+              $ sudo add-apt-repository ppa:mixxx/nightlies
+              $ sudo apt update
+              $ sudo apt install mixxx
+
+          Using the PPA ensures that new package versions will be installed automatically with `apt`.
       - slug: archlinux
         os: Arch Linux
         text: |
